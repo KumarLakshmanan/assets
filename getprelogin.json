@@ -92,6 +92,7 @@
     "vahupudesign": {
       "primary": "0xFF0184F8",
       "textcolor": "0xFF101010",
+      "accent": "0xFFb5b5b5",
       "secondary": "0xFFffa500",
       "notchcolor": "0xFF101010",
       "background": "0xFFF7F7F7",
@@ -182,7 +183,7 @@
       "description": "Lorem ipsum dolor sit amet,consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
   ],
-  "baseUrl": "https: //raw.githubusercontent.com/KumarLakshmanan/assets/main/",
+  "baseUrl": "https://raw.githubusercontent.com/KumarLakshmanan/assets/main/",
   "iconsandimg": {
     "accountancy": {
       "icons": [
