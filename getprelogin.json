@@ -92,11 +92,11 @@
   "light": {
     "vahupudesign": {
       "primary": "0xFF0184F8",
-      "textcolor": "0xFFefefef",
+      "textcolor": "0xFF101010",
       "accent": "0xFF4a4a4a",
       "secondary": "0xFFffa500",
       "notchcolor": "0xFF101010",
-      "background": "0xFFdddddd",
+      "background": "0xFFF7F7F7",
       "appbargradient": ["0xFF0184F8", "0xFF3ECFBE"],
       "useravatar": "avatar.png",
       "logoimage": "logo.png",
@@ -112,7 +112,7 @@
       "activeColor": "0xFF0184F8"
     },
     "vahupugrid": {
-      "background":"0xFFdddddd",
+      "background":"0xFFF7F7F7",
       "gridlinecolor": "0xFF181818",
       "gridlinesize": 2,
       "iconsize": 42,
