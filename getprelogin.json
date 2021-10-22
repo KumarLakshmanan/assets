@@ -72,16 +72,15 @@
       "activeColor": "0xFF0184F8"
     },
     "vahupugrid": {
-      "gridlinecolor": "0xFFE7E7E7",
       "gridlinesize": 2,
       "iconsize": 42,
       "fontsize": 14,
       "fontcolor": "0xFFFFFFFF",
       "gesturelinecolor": "0xFFE7E7E7",
+      "gridlinecolor": "0xFF181818",
       "gesturelinewidth": 100,
       "gesturelineheight": 5,
-      "gesturelineradius": 10,
-      "background":"0xFF101c42"
+      "gesturelineradius": 10
     },
     "vahuputabbar": {
       "activetabcolor": "0xFFffa500",
@@ -112,8 +111,7 @@
       "activeColor": "0xFF0184F8"
     },
     "vahupugrid": {
-      "background":"0xFFF7F7F7",
-      "gridlinecolor": "0xFF181818",
+      "gridlinecolor": "0xFFE7E7E7",
       "gridlinesize": 2,
       "iconsize": 42,
       "fontsize": 14,
