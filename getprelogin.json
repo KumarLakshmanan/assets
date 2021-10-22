@@ -56,8 +56,8 @@
       "accent": "0xFFb5b5b5",
       "secondary": "0xFFffa500",
       "notchcolor": "0xFF101010",
-      "background": "0xFF222222",
-      "appbargradient": ["0xFF424242", "0xFF424242"],
+      "background": "0xFF04103a",
+      "appbargradient": ["0xFF101c42", "0xFF101c42"],
       "useravatar": "avatar.png",
       "logoimage": "logo.png",
       "useravatarradius": 40,
@@ -67,21 +67,21 @@
       "height": 60,
       "iconsize": 30,
       "fontsize": 10,
-      "fontcolor": "0xff654321",
-      "bgcolor": "0xFFEEF6f7",
-      "activeColor": "0xFF2F80ED"
+      "fontcolor": "0xffffffff",
+      "bgcolor": "0xFF101c42",
+      "activeColor": "0xFF0184F8"
     },
     "vahupugrid": {
       "gridlinecolor": "0xFFE7E7E7",
       "gridlinesize": 2,
       "iconsize": 42,
       "fontsize": 14,
-      "fontcolor": "0xFF50B3FF",
+      "fontcolor": "0xFFFFFFFF",
       "gesturelinecolor": "0xFFE7E7E7",
       "gesturelinewidth": 100,
       "gesturelineheight": 5,
       "gesturelineradius": 10,
-      "background":"0xFF222222"
+      "background":"0xFF101c42"
     },
     "vahuputabbar": {
       "activetabcolor": "0xFFffa500",
@@ -109,7 +109,7 @@
       "fontsize": 10,
       "fontcolor": "0xff654321",
       "bgcolor": "0xFFEEF6f7",
-      "activeColor": "0xFF2F80ED"
+      "activeColor": "0xFF0184F8"
     },
     "vahupugrid": {
       "background":"0xFFdddddd",
@@ -117,7 +117,7 @@
       "gridlinesize": 2,
       "iconsize": 42,
       "fontsize": 14,
-      "fontcolor": "0xFF50B3FF",
+      "fontcolor": "0xFF101c42",
       "gesturelinecolor": "0xFFE7E7E7",
       "gesturelinewidth": 100,
       "gesturelineheight": 5,
