@@ -80,7 +80,8 @@
       "gesturelinecolor": "0xFFE7E7E7",
       "gesturelinewidth": 100,
       "gesturelineheight": 5,
-      "gesturelineradius": 10
+      "gesturelineradius": 10,
+      "background":"0xFF222222"
     },
     "vahuputabbar": {
       "activetabcolor": "0xFFffa500",
@@ -91,11 +92,11 @@
   "light": {
     "vahupudesign": {
       "primary": "0xFF0184F8",
-      "textcolor": "0xFF101010",
-      "accent": "0xFFb5b5b5",
+      "textcolor": "0xFFefefef",
+      "accent": "0xFF4a4a4a",
       "secondary": "0xFFffa500",
       "notchcolor": "0xFF101010",
-      "background": "0xFFF7F7F7",
+      "background": "0xFFdddddd",
       "appbargradient": ["0xFF0184F8", "0xFF3ECFBE"],
       "useravatar": "avatar.png",
       "logoimage": "logo.png",
@@ -111,7 +112,8 @@
       "activeColor": "0xFF2F80ED"
     },
     "vahupugrid": {
-      "gridlinecolor": "0xFFE7E7E7",
+      "background":"0xFFdddddd",
+      "gridlinecolor": "0xFF181818",
       "gridlinesize": 2,
       "iconsize": 42,
       "fontsize": 14,
