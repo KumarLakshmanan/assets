@@ -53,7 +53,7 @@
     "vahupudesign": {
       "primary": "0xFF0184F8",
       "textcolor": "0xFFfefefe",
-      "accent": "0xFF2d3756",
+      "accent": "0xFF2BA3FA",
       "secondary": "0xFFffa500",
       "notchcolor": "0xFF101010",
       "background": "0xFF04103a",
@@ -92,7 +92,7 @@
     "vahupudesign": {
       "primary": "0xFF0184F8",
       "textcolor": "0xFF101010",
-      "accent": "0xFFfafafa",
+      "accent": "0xFFFFFFFF",
       "secondary": "0xFFffa500",
       "notchcolor": "0xFF101010",
       "background": "0xFFefefef",
