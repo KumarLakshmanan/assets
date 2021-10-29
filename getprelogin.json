@@ -184,6 +184,15 @@
       "description": "Lorem ipsum dolor sit amet,consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
   ],
+  "errors":{
+    "404": "404.png",
+    "articleNotFound": "articleNotFound.png",
+    "brokenLink": "brokenLink.png",
+    "connectionLost": "connectionLost.png",
+    "noConnection": "noConnection.png",
+    "noCameraAccess": "noCameraAccess.png",
+    "timeError" : "timeError.png"
+  },
   "baseUrl": "https://raw.githubusercontent.com/KumarLakshmanan/assets/main/",
   "iconsandimg": {
     "accountancy": {
